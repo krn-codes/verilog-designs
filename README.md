@@ -1,5 +1,5 @@
 # verilog-designs
-A compilation of my verilog designs and practice code as I learn the language.
+A compilation of my verilog designs and practice code as I learn the language. Made with the assistance of HDLbits.
 
 ## Getting Started
 To run the Verilog files:
