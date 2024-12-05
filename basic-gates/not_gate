@@ -1,0 +1,12 @@
+// Module: not_gate
+// Author: Karan Sharma
+// Date: Dec-4-2024
+// Description: Takes a single one-bit input: in, and gets the output: out through a NOT gate
+
+module and_gate(
+    input in,        // Input
+    output out);    // Output
+
+    assign out =~ in;   // Perform NOT operation
+
+endmodule

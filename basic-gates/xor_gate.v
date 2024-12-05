@@ -1,7 +1,7 @@
 // Module: xor_gate
 // Author: Karan Sharma
 // Date: Dec-3-2024
-// Description: Takes two one-bit inputs: a and b, and gets the output: out through an XOR gate
+// Description: Takes two one-bit inputs: a and b, and gets the output: out through a XOR gate
 
 module xor_gate(
     input a,        // Input one
